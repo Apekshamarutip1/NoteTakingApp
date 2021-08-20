@@ -35,7 +35,7 @@ $(document).ready(function(){
 			</div>
 			
 			<div class="container text-center">
-				<button type="submit" class="btn btn-primary">Save your note</button>
+				<button type="submit" class="btn btn-success">Save your note</button>
 			</div>
 			
 		</form>
